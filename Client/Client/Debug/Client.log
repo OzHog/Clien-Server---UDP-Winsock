@@ -1,0 +1,4 @@
+﻿  Client.cpp
+c:\studies\introdaction to computer communication\clien & server - udp\client\client\client.cpp(157): warning C4101: 'timeArr': unreferenced local variable
+c:\studies\introdaction to computer communication\clien & server - udp\client\client\client.cpp(160): warning C4101: 'j': unreferenced local variable
+  Client.vcxproj -> C:\Studies\Introdaction to Computer Communication\Clien & Server - UDP\Client\Debug\Client.exe

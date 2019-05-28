@@ -1,0 +1,6 @@
+﻿  Server.cpp
+c:\studies\introdaction to computer communication\clien & server - udp\server\server\server.cpp(205): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+  c:\studies\introdaction to computer communication\clien & server - udp\server\server\server.cpp(205): note: consider using '%lld' in the format string
+  c:\studies\introdaction to computer communication\clien & server - udp\server\server\server.cpp(205): note: consider using '%I64d' in the format string
+c:\studies\introdaction to computer communication\clien & server - udp\server\server\server.cpp(238): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Server.vcxproj -> C:\Studies\Introdaction to Computer Communication\Clien & Server - UDP\Server\Debug\Server.exe
